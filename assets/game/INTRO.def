@@ -1,0 +1,30 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "As only a few elite people know, there is something in the universe that governs when stuff falls down."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "What even less people know, is that those so-called 'Physics' were invented in 1666, by a man called Isaac Newton, who ate a magical apple."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "However, this upset a certain time traveler, who now aims to destroy physics as we know or do not know it. Will Isaac Newton be able to prevent those... ALTERNATIVE PHYSICS?!"
+
+[Game]

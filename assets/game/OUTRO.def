@@ -1,0 +1,30 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "The relatively evil time traveler Albert Einstein was stopped just in time!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "'No, great tragedy will befall the world because of physics', Albert pleaded, his tongue still out. 'Like the atomic bomb?' Isaac anachronistically retorted. 'No, nerds will have a hard time finding girlfriends!'"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "So the two formed a swole scientist duo to travel through time and get everyone girlfriends, including you the player if you don't have one. What a happy ending. Thanks for playing! The end!"
+
+[Title]
